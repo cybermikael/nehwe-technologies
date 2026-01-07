@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://cybermikael.github.io/nehwe-technologies/contact/</loc>
+    <lastmod>2026-01-07T14:14:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://cybermikael.github.io/nehwe-technologies/</loc>
+    <lastmod>2026-01-07T14:14:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://cybermikael.github.io/nehwe-technologies/about/</loc>
+    <lastmod>2026-01-07T14:13:53-07:00</lastmod>
+  </url><url>
+    <loc>https://cybermikael.github.io/nehwe-technologies/services/</loc>
+    <lastmod>2026-01-07T14:13:45-07:00</lastmod>
+  </url><url>
+    <loc>https://cybermikael.github.io/nehwe-technologies/categories/</loc>
+  </url><url>
+    <loc>https://cybermikael.github.io/nehwe-technologies/tags/</loc>
   </url>
 </urlset>
