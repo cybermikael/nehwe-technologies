@@ -1,0 +1,38 @@
+/* Reduce overall text size slightly */
+.post-content {
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
+/* Headings: tighter + more executive */
+.post-content h1 {
+  font-size: 2rem;
+  margin-top: 1.5rem;
+}
+
+.post-content h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.4rem;
+}
+
+.post-content h3 {
+  font-size: 1.15rem;
+  margin-top: 1.2rem;
+  color: var(--secondary);
+}
+
+/* Lists: less vertical bloat */
+.post-content ul {
+  margin-top: 0.5rem;
+}
+
+.post-content li {
+  margin-bottom: 0.3rem;
+}
+
+/* CTA links stand out slightly */
+.post-content a {
+  font-weight: 600;
+}

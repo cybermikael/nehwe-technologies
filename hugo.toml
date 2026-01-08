@@ -1,8 +1,7 @@
 baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
-title = 'Nehwe Technologies'
+title = "NEHWE TECHNOLOGIES"
 theme = "PaperMod"
-
 enableRobotsTXT = true
 
 [params]
@@ -12,10 +11,15 @@ enableRobotsTXT = true
     ShowPostNavLinks = true
     ShowBreadCrumbs = true
     ShowCodeCopyButtons = true
-
+    hero = true
     description = "Federal cybersecurity compliance, risk management, and audit readiness."
 
     [menu]
+        [[menu.main]]
+            name = "Home"
+            url = "/"
+            weight = 10
+
         [[menu.main]]
             name = "Services"
             url = "/services/"
@@ -30,3 +34,10 @@ enableRobotsTXT = true
             name = "Contact"
             url = "/contact/"
             weight = 30
+
+    [params.profileMode]
+        enabled = false
+        title = "Federal Cybersecurity Compliance, Done Right"
+        subtitle = "Helping organizations meet NIST, FISMA, and FedRAMP requirements with clarity, precision, and audit-ready security programs."
+        imageUrl = "https://www.careersingovernment.com/tools/wp-content/uploads/2017/08/cyber-security-banner.jpg"
+        imageTitle = "Federal Cybersecurity"
