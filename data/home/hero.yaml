@@ -1,0 +1,35 @@
+enable: true
+
+title: "Practical Cybersecurity Solutions for small Federal Contractors"
+text: "Helping small contractors identify gaps, prepare for CMMC & NIST 800-171 compliance, and create actionable remediation plans — without hiring full-time security staff."
+
+buttons:
+  - label: "Contact Us"
+    link: "#"
+
+  - label: "View More"
+    link: ""
+
+image: "images/home/hero/bill-sitting.png"
+
+items:
+  - icon: "fas fa-user"
+    color: "#4628A4"
+    title: "CMMC/NIST 800-171 Readiness Assessments (Gap Analysis)"
+    text: "Lorem ipsum lorem lorem"
+
+  - icon: "fas fa-user"
+    color: "#5FC300"
+    title: "POA&M (Plan of Action & Milestones) Development"
+    text: "Lorem ipsum lorem lorem"
+
+  - icon: "fas fa-user"
+    color: "#00329B"
+    title: "Policy & Procedure Documentation"
+    text: "Lorem ipsum lorem lorem"
+
+  - icon: "fas fa-user"
+    color: "#BB3800"
+    title: "Advisory / “Cybersecurity Roadmap” Consulting"
+    text: "Lorem ipsum lorem lorem"
+

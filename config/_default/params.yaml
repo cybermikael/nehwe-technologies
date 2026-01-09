@@ -1,0 +1,21 @@
+title: "NEHWE TECHNOLOGIES"
+description: "Experienced mobile and web applications and website builders measuring."
+images: 
+  - "images/home/hero/bill-sitting.png"
+
+# logo: "images/shared/logo.png"
+
+favicons:
+  themeColor: "#FFFFFF"
+  backgroundColor: "#FFFFFF"
+  faviconColor: "#000000"
+
+contact:
+  - "x4d69636861656c@gmail.com"
+  - "650.265.1822"
+
+social:
+  twitter: "#"
+
+copyright: "© 2026 Nehwe Technologies All Rights Reserved"
+
