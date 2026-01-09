@@ -31,7 +31,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --environment hugo.production.yaml
+        run: hugo --environment production
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
