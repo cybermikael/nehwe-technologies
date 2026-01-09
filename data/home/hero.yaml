@@ -10,17 +10,17 @@ buttons:
   - label: "View More"
     link: ""
 
-image: "images/home/hero/bill-sitting.png"
+image: "images/home/hero/mikaelShieldHero.png"
 
 items:
   - icon: "fas fa-user"
     color: "#4628A4"
-    title: "CMMC/NIST 800-171 Readiness Assessments (Gap Analysis)"
+    title: "Gap Analysis"
     text: "Lorem ipsum lorem lorem"
 
   - icon: "fas fa-user"
     color: "#5FC300"
-    title: "POA&M (Plan of Action & Milestones) Development"
+    title: "Plan of Action & Milestones"
     text: "Lorem ipsum lorem lorem"
 
   - icon: "fas fa-user"
@@ -30,6 +30,6 @@ items:
 
   - icon: "fas fa-user"
     color: "#BB3800"
-    title: "Advisory / “Cybersecurity Roadmap” Consulting"
+    title: "Cybersecurity Roadmap"
     text: "Lorem ipsum lorem lorem"
 
