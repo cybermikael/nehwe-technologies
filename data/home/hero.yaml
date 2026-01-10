@@ -5,10 +5,10 @@ text: "Helping small contractors identify gaps, prepare for CMMC & NIST 800-171 
 
 buttons:
   - label: "Contact Us"
-    link: "#"
+    link: "/contact"
 
   - label: "View More"
-    link: ""
+    link: "/services"
 
 image: "images/home/hero/mikaelShieldHero.png"
 

@@ -3,11 +3,11 @@ enable: true
 contact:
   title: "Contact"
   items:
-    - label: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
-      link: ""
+    - label: "michael@nehwe.tech"
+      link: "mailto:michael@nehwe.tech"
 
     - label: "+1 650.265.1822"
-      link: ""
+      link: "tel:+16502651822"
 
 social:
   - title: "Twitter"

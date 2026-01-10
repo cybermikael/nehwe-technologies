@@ -76,4 +76,4 @@ These are for companies ready to expand compliance and security beyond the basic
 
 ## Ready to Get Started?
 
-If your company is ready to simplify compliance and get audit-ready, [contact me](#contact) to schedule a consultation. Let's turn compliance into a predictable, manageable part of your business.
+If your company is ready to simplify compliance and get audit-ready, [contact me](/contact) to schedule a consultation. Let's turn compliance into a predictable, manageable part of your business.

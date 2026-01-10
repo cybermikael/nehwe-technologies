@@ -1,35 +1,28 @@
 ---
 title: "Contact"
-description: "Cybersecurity compliance guidance for federal contractors"
+description: "Let's Talk About Compliance Requirements"
 slug: "contact"
 draft: false
 ---
 
-## Who I Help
+## Schedule a Compliance Readiness Call
 
-I help small and mid-sized federal contractors understand, prepare for, and achieve compliance with NIST 800-171 and CMMC requirements—without unnecessary complexity or fear-driven consulting.
+### Direct Contact
+**Phone:** [ +1 650.265.1822 ](tel:16502651822)
 
-## My Background
+### Prefer email?
+**Email:** [ michael@nehwe.tech](mailto:michael@nehwe.tech)
 
-I am a former cybersecurity analyst supporting a U.S. Air Force federal contract, with hands-on experience assessing security controls, identifying gaps, and supporting compliance-driven environments.
+## This is a good fit if your ogranization:
 
-I specialize in practical, actionable compliance—not theory.
+- Works with the Deparment of Defense of federal subcontractors
+- Needs NIST 800-171 or CMMC readiness support
+- Lacks a dedicated internal security or compliance team
+- Wants clear documentation and an actionable plan
 
-## My Approach
+if that sounds like you, we should talk.
 
-Most contractors don’t need more tools.
-They need clarity.
+---
 
-I focus on:
-- Clear gap analysis
-- Practical remediation plans (POA&Ms)
-- Realistic timelines and priorities
-- Documentation that actually reflects how your business operates
-
-## Who This Is For
-
-- Defense contractors and subcontractors
-- Small businesses pursuing DoD contracts
-- Organizations preparing for CMMC or NIST 800-171 assessments
-
-If that’s you, you’re in the right place.
+All conversations are confidential. 
+No obligation, no pressure - just an honest discussion about readiness and risk.
