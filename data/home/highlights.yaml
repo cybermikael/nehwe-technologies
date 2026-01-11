@@ -1,14 +1,14 @@
 enable: true
 
 items:
-  - title: "Lorem ipsum is simply dummy text"
-    text: "KODEX TECHNOLOGY (PVT) LTD is a team of experienced mobile and web applications and website builders measuring dozens of completed projects. We build and develop mobile applications for several top platforms, including Android  & IOS. "
+  - title: "Compliance Readiness Assessment"
+    text: "A focused engagement designed to help federal contractors understand where they stand against NIST 800-171 and CMMC requirements. Includes a gap analysis, POA&M, and remediation roadmap."
     button:
-      label: "View More"
-      link: "#"
+      label: "Direct Contact"
+      link: "/contact"
 
-  - title: "Lorem ipsum is simply dummy text"
-    text: "KODEX TECHNOLOGY (PVT) LTD is a team of experienced mobile and web applications and website builders measuring dozens of completed projects. We build and develop mobile applications for several top platforms, including Android  & IOS. "
+  - title: "Ongoing Compliance Advisory"
+    text: "For organizations that need continued guidance beyond an initial assessment. Advisory support helps track remediation progress, answer auditor questions, and maintain compliance over time."
     button:
-      label: "View More"
-      link: "#"
+      label: "Direct Contact"
+      link: "/contact"

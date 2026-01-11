@@ -10,9 +10,6 @@ contact:
       link: "tel:+16502651822"
 
 social:
-  - title: "Twitter"
-    icon: "fa-brands fa-twitter"
-    link: "#"
   - title: "LinkedIn"
     icon: "fa-brands fa-linkedin"
     link: "#"
