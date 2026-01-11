@@ -13,23 +13,23 @@ buttons:
 image: "images/home/hero/mikaelShieldHero.png"
 
 items:
-  - icon: "fas fa-user"
+  - icon: "fas fa-clipboard-check"
     color: "#4628A4"
-    title: "Gap Analysis"
-    text: "Lorem ipsum lorem lorem"
+    title: "CMMC & NIST Readiness Assessments"
+    text: "Identify compliance gaps and receive a clear, actionable roadmap aligned with NIST 800-171 and CMMC requirements."
 
-  - icon: "fas fa-user"
+  - icon: "fas fa-list-check"
     color: "#5FC300"
-    title: "Plan of Action & Milestones"
-    text: "Lorem ipsum lorem lorem"
+    title: "POA&M Development"
+    text: "Structured remediation plans that clearly define actions, ownership, timelines, and priorities."
 
-  - icon: "fas fa-user"
+  - icon: "fas fa-file-lines"
     color: "#00329B"
     title: "Policy & Procedure Documentation"
-    text: "Lorem ipsum lorem lorem"
+    text: "Practical, audit-aligned security policies tailored to your organization’s environment and risk profile."
 
-  - icon: "fas fa-user"
+  - icon: "fas fa-comments"
     color: "#BB3800"
-    title: "Cybersecurity Roadmap"
-    text: "Lorem ipsum lorem lorem"
+    title: "Compliance Advisory & Guidance"
+    text: "Direct access to experienced compliance guidance without the cost of a full-time security hire."
 

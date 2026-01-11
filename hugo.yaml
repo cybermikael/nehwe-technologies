@@ -30,3 +30,7 @@ module:
 taxonomies:
   series: "series"
   tags: "tags"
+
+params:
+  customCSS:
+    - css/custom.css

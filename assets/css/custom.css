@@ -1,0 +1,48 @@
+/* =========================================================
+   Professional Icon/Text Layout for Consulting Site
+   Mobile-centered, Desktop-left aligned
+   Applies to hugo-agency-web icon sections
+   ========================================================= */
+
+/* Base (mobile-first) */
+.flex-col.xl\:flex-row.xl\:items-center.justify-around.flex-wrap.gap-8 {
+  flex-direction: column;      /* stack vertically */
+  align-items: center;         /* icons and text centered */
+  justify-content: center;     /* horizontal centering */
+  text-align: center;          /* text centered under icons */
+}
+
+/* Desktop / XL screens (1280px+) */
+@media (min-width: 1280px) {
+  .flex-col.xl\:flex-row.xl\:items-center.justify-around.flex-wrap.gap-8 {
+    flex-direction: row;        /* horizontal layout */
+    align-items: flex-start;    /* icons/text top-aligned */
+    justify-content: flex-start;/* left-align items */
+    text-align: left;           /* text left-aligned */
+  }
+
+  /* Spacing between icon/text blocks in desktop row layout */
+  .flex-col.xl\:flex-row.xl\:items-center.justify-around.flex-wrap.gap-8 > * {
+    margin-bottom: 1rem;       /* spacing if wrapping occurs */
+    margin-right: 2rem;        /* horizontal spacing between blocks */
+  }
+}
+
+/* Optional: icon size and alignment tweaks */
+.flex-col.xl\:flex-row.xl\:items-center.justify-around.flex-wrap.gap-8 i {
+  font-size: 2.5rem;           /* larger icons */
+  margin-bottom: 0.5rem;       /* spacing between icon and title */
+}
+
+/* Optional: text styling for professional look */
+.flex-col.xl\:flex-row.xl\:items-center.justify-around.flex-wrap.gap-8 h3 {
+  font-size: 1.125rem;         /* 18px */
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.flex-col.xl\:flex-row.xl\:items-center.justify-around.flex-wrap.gap-8 p {
+  color: #4B5563;              /* Tailwind gray-700 */
+  line-height: 1.5;
+  margin: 0;
+}
